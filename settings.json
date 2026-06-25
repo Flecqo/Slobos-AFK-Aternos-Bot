@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Flecqos_LifeSteal.aternos.me:",
+    "ip": "Flecqos_LifeSteal.aternos.me",
     "port": 18662,
     "version": "1.21.11",
     "try-creative": false
